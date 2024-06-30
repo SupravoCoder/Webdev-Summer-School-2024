@@ -1,4 +1,4 @@
-# Webdevassignment1
+# WebdevEnigma Summerschool IIT MADRAS
 Its a learning , build in public repo for web dev and introduction to various and more web dev topics
 # 🌞 **Web Development Summer School 2024** 🚀
 
